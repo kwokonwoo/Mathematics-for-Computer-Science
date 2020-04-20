@@ -1,10 +1,10 @@
 # Mathematics-for-Computer-Science
-*Mathematics for Computer Science*
+- *Mathematics for Computer Science*
 
-*Discrete Mathematics and Its Applications*
+- *Discrete Mathematics and Its Applications*
 
-*Concrete Mathematics: A Foundation for Computer Science*
+- *Concrete Mathematics: A Foundation for Computer Science*
 
-*Probability and Statistics*
+- *Probability and Statistics*
 
-*An introduction to probability theory and its applications*
+- *An introduction to probability theory and its applications*
